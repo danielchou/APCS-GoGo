@@ -1,0 +1,18 @@
+    # Compiled Object Files
+    *.o
+    *.obj
+
+    # Executables
+    *.exe
+    *.out
+    *.bin
+
+    # Libraries
+    *.lib
+    *.dll
+    *.so
+    *.dylib
+
+    # Debugging Symbols
+    *.pdb
+    *.dSYM
